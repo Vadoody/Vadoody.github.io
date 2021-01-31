@@ -1,6 +1,6 @@
 
 
-[EN](Index_En.md)<a class="pt-trigger" href="resume-EN" data-animation="62"> <img src="img/en.png" width="20" height="20"/></a>
+[EN](CV_En.md)<a class="pt-trigger" href="CV_En" data-animation="62"> <img src="img/en.png" width="20" height="20"/></a>
 
 <style type="text/css">
 body{
@@ -75,10 +75,7 @@ body{
  
  + آدرس ایمیل : L_Vadoody_1386@yahoo.com   
  
- + تلفن : 09194977669
-
-
-
+ 
 
 [لینک ارزیابی رزومه](https://github.com/zahramahan/zahramahan.github.io/blob/c97291ea3ff79033f40d8299f92d5f5595268878/ZM_CV_CheckList_AR_3983%20(1).pdf)
 
