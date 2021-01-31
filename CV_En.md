@@ -1,6 +1,6 @@
 
 
-[FA](CV_Fa.md)<a class="pt-trigger" href="index" data-animation="62"> <img src="img/Iran.png" width="20" height="20"/></a>
+[FA](CV_Fa.md)<a class="pt-trigger" href="CV_Fa" data-animation="62"> <img src="img/Iran.png" width="20" height="20"/></a>
 
 <p align="right">
 
@@ -73,7 +73,7 @@
 
       Email : L_Vadoody_1386@yahoo.com
 
-      Resume evaluation link
+   [Resume evaluation link](https://github.com/zahramahan/zahramahan.github.io/blob/c97291ea3ff79033f40d8299f92d5f5595268878/ZM_CV_CheckList_AR_3983%20(1).pdf)
    
 </p>
 
