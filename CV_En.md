@@ -1,6 +1,6 @@
 
 
-[FA](CV_Fa.md)<a class="pt-trigger" href="CV_Fa" data-animation="62"><img src="img/Iran.png" width="20" height="20"/></a>
+[FA](index.md)<a class="pt-trigger" href="index" data-animation="62"><img src="img/Iran.png" width="20" height="20"/></a>
 
 
 # Vadoody.github.io
