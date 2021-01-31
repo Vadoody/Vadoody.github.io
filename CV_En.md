@@ -44,9 +44,15 @@
 
 ## Tongue
 
-      Farsi language
+      Farsi language (Mother tongue)
       English (Medium to High)
-      Azerbaijani Turkish language (medium to high)
+      Azerbaijani Turkish language (Medium to High)
+      
+## Favorites
+
+      Reading books
+      Travel
+      Do artistic and creative works
 
 ## Tasks and achievements
 
@@ -68,48 +74,6 @@
       Email : L_Vadoody_1386@yahoo.com
 
       Resume evaluation link
-    
-    
-    
-
-## Personal Information
-
-      Name : F
-      Last name : Vadoody
-      Date of birth : 1997
-      Marital status : Single
-      Location : Tehran, Iran
-      
-      I'm a Computer Engineering Student Majoring In Information Technology
-      in Payame Noor University of Tehran, Pardis New City Branch
-
-## Skill Highlights
-
-      Programming in C++ , C#.Net , VB.Net , ...
-      Photoshop
-      Translate
-      Do art and creativity
-
-## Education
-
-      Diploma : Sharafat High School
-      Bachelor of Science : Information Technology Engineering _   Payame Noor University of Tehran, New Campus Branch
-
-## Tongue
-
-      Persian (mother tongue)
-      Medium English)
-      Azerbaijani Turkish (Advanced)
-
-## Favorites
-
-      Reading books
-      Travel
-      Do artistic and creative works
-
-## Work experience
-
-      Design And Programming As A Project In Small And Relatively Large Jobs
-     
+   
 </p>
 
