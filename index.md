@@ -76,6 +76,6 @@ body{
  
  
 
-[لینک ارزیابی رزومه](https://github.com/zahramahan/zahramahan.github.io/blob/c97291ea3ff79033f40d8299f92d5f5595268878/ZM_CV_CheckList_AR_3983%20(1).pdf)
+[ارزیابی رزومه](https://github.com/zahramahan/zahramahan.github.io/blob/c97291ea3ff79033f40d8299f92d5f5595268878/ZM_CV_CheckList_AR_3983%20(1).pdf)
 
 
