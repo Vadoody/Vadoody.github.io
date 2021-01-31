@@ -14,6 +14,64 @@
 
 ## F.Vadoody
 
+Personal Information
+
+      Name: F
+      Last name: Vadoody
+      Place and date of birth: Tehran, 1997
+      Location: Tehran
+      Marital status Single
+
+      Interested In Programming ; 
+      Creative and Energetic and ready to gain new skills and experience
+
+Education
+
+      Bachelor : Computer Engineering majoring in Information Technology
+      Payame Noor University of Tehran Campus Branch ...
+      Diploma in Mathematics Physics
+
+Skills
+
+      ICDL 1 Skills (Advanced)
+      ICDL 2 skills (advanced)
+      C ++ Language (Medium)
+      C # .NET Language (Medium)
+      Visual Basic .NET Language (Medium)
+      Delphi language (intermediate)
+      Photoshop
+      Works of art and creativity
+
+Tongue
+
+      Farsi language
+      English (Medium to High)
+      Azerbaijani Turkish language (medium to high)
+
+Tasks and achievements
+
+      Thank God .... Doing many small and relatively large projects
+  
+Courses And Certificates
+
+      Java Script
+      Institute: Sololarn site
+
+## Projects
+
+      Ghasedak Bookstore Management System Project
+
+      Programming with VB .NET language and SQL Server database ... in progress
+
+## Contact With Me
+
+      Email : L_Vadoody_1386@yahoo.com
+
+      Resume evaluation link
+    
+    
+    
+
 ## Personal Information
 
       Name : F
@@ -51,7 +109,7 @@
 
 ## Work experience
 
-      Design and programming as a project in small and relatively large jobs
+      Design And Programming As A Project In Small And Relatively Large Jobs
      
 </p>
 
