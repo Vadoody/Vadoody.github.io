@@ -1,7 +1,7 @@
 
 
 
-[EN](CV_En.md)<a class="pt-trigger" href="CV_En" data-animation="62"> <img src="img/en.png" width="20" height="20"/></a>
+[EN](https://github.com/Vadoody/Vadoody.github.io/blob/main/CV_En.md)<a class="pt-trigger" href="CV_En" data-animation="62"> <img src="img/en.png" width="20" height="20"/></a>
 
 # Vadoody.github.io
 
