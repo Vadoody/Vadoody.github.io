@@ -44,7 +44,7 @@
 ## Favorites
 
       Reading books
-      travel
+      Travel
       Do artistic and creative works
 
 ## Work experience
