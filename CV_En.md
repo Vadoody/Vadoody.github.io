@@ -21,14 +21,14 @@
 
 ## Personal Information
 
-+     Name: F
-+     Last name: Vadoody
-+     Place and date of birth: Tehran, 1997
-+    Location: Tehran
-+     Marital status Single
+      Name: F
+      Last name: Vadoody
+      Place and date of birth: Tehran, 1997
+      Location: Tehran
+      Marital status Single
 
-+     Interested In Programming ; 
-+     Creative and Energetic and ready to gain new skills and experience
+      Interested In Programming ; 
+      Creative and Energetic and ready to gain new skills and experience
 
 ## Education
 
