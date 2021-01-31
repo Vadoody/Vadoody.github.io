@@ -14,7 +14,7 @@
 
 ## F.Vadoody
 
-Personal Information
+## Personal Information
 
       Name: F
       Last name: Vadoody
@@ -25,13 +25,13 @@ Personal Information
       Interested In Programming ; 
       Creative and Energetic and ready to gain new skills and experience
 
-Education
+## Education
 
       Bachelor : Computer Engineering majoring in Information Technology
       Payame Noor University of Tehran Campus Branch ...
       Diploma in Mathematics Physics
 
-Skills
+## Skills
 
       ICDL 1 Skills (Advanced)
       ICDL 2 skills (advanced)
@@ -42,17 +42,17 @@ Skills
       Photoshop
       Works of art and creativity
 
-Tongue
+## Tongue
 
       Farsi language
       English (Medium to High)
       Azerbaijani Turkish language (medium to high)
 
-Tasks and achievements
+## Tasks and achievements
 
       Thank God .... Doing many small and relatively large projects
   
-Courses And Certificates
+## Courses And Certificates
 
       Java Script
       Institute: Sololarn site
