@@ -3,9 +3,6 @@
 [FA](index.md)<a class="pt-trigger" href="index" data-animation="62"><img src="img/Iran.png" width="20" height="20"/></a>
 
 
-# Vadoody.github.io
-
-
 ## Welcome to  My GitHub Pages
 
 <img src="https://raw.githubusercontent.com/Vadoody/Vadoody.github.io/main/U100.jpg">
