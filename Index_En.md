@@ -17,19 +17,13 @@
 ## Personal Information
 
       Name : F
-      
       Last name : Vadoody
-      
       Date of birth : 1997
-      
       Marital status : Single
-      
       Location : Tehran, Iran
       
       I'm a Computer Engineering Student Majoring In Information Technology
       in Payame Noor University of Tehran, Pardis New City Branch
-
-      
 
 ## Skill Highlights
 
