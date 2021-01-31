@@ -12,55 +12,44 @@
 
 ## About Me
 
+## F.Vadoody
 
-Name: Zahra Mahan
+## Personal Information
 
-Place and Date of Brith : Esfahan , 27 August 2000
+      Name : F
+      Last name : Vadoody
+      Date of birth : 1997
+      Marital status : Single
+      I am a computer science student in information technology
+      Location : Tehran, Iran
 
-City of residence : Tehran
+## Skill Highlights
 
-Marital status : single
-
-Email : zahramahan2079@gmail.com
-
-Hi ,I am Zahra Mahan, I learn programming and I love it. I am studying computer engineering at PNU University
+      Programming in C++ , C#.Net , VB.Net , ...
+      Photoshop
+      Translate
+      Do art and creativity
 
 ## Education
 
-Now           Fifth semester of Computer Engineering, Payame Noor University
+      Diploma : Sharafat High School
+      Bachelor of Science : Information Technology Engineering _   Payame Noor University of Tehran, New Campus Branch
 
-2018          Finished Senior high school 
+## Tongue
 
-2014          Finished Junior high school
+      Persian (mother tongue)
+      Medium English)
+      Azerbaijani Turkish (Advanced)
 
-2011          Finished Primary school
+## Favorites
 
-## Skills
+      Reading books
+      travel
+      Do artistic and creative works
 
-Java ( average )
+## Work experience
 
-C++  ( average ) 
-
-learning (html , html5 , css , css3 and Python )
-
-Icdl
-
-Photoshop
-
-WordPress
-
-## Language
-Farsi
-
-English ( higher than average )
-
-## Working Experience
-
-6 months internship in Shahed Institute ( and currently work at here)
-
-## Other Accounts
-
-Quera: https://quera.ir/profile/zahramahan2079
-
+      Design and programming as a project in small and relatively large jobs
+     
 </p>
 
